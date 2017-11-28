@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  Lab1.cpp
-  Génération de code en cours...
-  Lab1.vcxproj -> D:\cll\Vision\Lab6\x64\Debug\Lab1.exe
-  Lab1.vcxproj -> D:\cll\Vision\Lab6\x64\Debug\Lab1.pdb (Full PDB)
+﻿  Lab1.cpp
+d:\vision\lab6\lab1\lab1.cpp(119): warning C4101: 'hauteur' : variable locale non référencée
+d:\vision\lab6\lab1\lab1.cpp(119): warning C4101: 'largeur' : variable locale non référencée
+  Lab1.vcxproj -> D:\Vision\Lab6\x64\Debug\Lab1.exe
